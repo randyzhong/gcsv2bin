@@ -22,7 +22,7 @@
 #include <string.h>
 #include <getopt.h>
 
-#define COUNTRYCOUNT 241
+#define COUNTRYCOUNT 275
 extern int  optind;
 
 static void usage(const char *cmd)
